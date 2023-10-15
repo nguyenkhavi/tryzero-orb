@@ -1,5 +1,4 @@
-description: >
-  Retrieve and store SSM Parameters as .env file
+description: "Retrieve and store SSM Parameters as .env file"
 # Provide a use-case based example for using this orb.
 # Everything in the `usage` section will be displayed in the orb registry.
 # Comments are not retained.
@@ -10,4 +9,4 @@ usage:
   workflows:
     use-my-orb:
       jobs:
-      - tryzero-orb/greet
+      - tryzero-orb/hello
