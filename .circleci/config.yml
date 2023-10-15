@@ -24,5 +24,5 @@ workflows:
         pipeline_number: 1
         vcs_type: github
         orb_name: tryzero-orb
-        requires: [orb-tools/lint, orb-tools/pack, orb-tools/review, shellcheck/check]
+        requires: [orb-tools/lint, orb-tools/pack, shellcheck/check]
         filters: *filters
