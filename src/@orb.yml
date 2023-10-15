@@ -1,7 +1,6 @@
 version: 2.1
 
-description: >
-  Orb to retrieve and store SSM Parameters as .env file
+description: "Orb to retrieve and store SSM Parameters as .env file"
 # What will your orb allow users to accomplish?
 # Descriptions should be short, simple, and informative.
 
